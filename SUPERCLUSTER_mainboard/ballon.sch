@@ -8057,17 +8057,18 @@ DIN A3, landscape with location and doc. field</description>
 <approved hash="104,1,-15.24,124.46,J1,2,+3V3,,,"/>
 <approved hash="104,1,243.84,180.34,U1,3.3V,+3V3,,,"/>
 <approved hash="113,1,93.98,126.035,U$1,,,,,"/>
-<approved hash="113,1,-23.0971,101.374,JP1,,,,,"/>
-<approved hash="113,1,-23.0971,81.0539,JP2,,,,,"/>
-<approved hash="113,1,121.694,165.337,JP3,,,,,"/>
-<approved hash="113,1,-23.0971,45.4939,JP4,,,,,"/>
-<approved hash="113,1,228.837,81.5061,JP5,,,,,"/>
-<approved hash="113,1,50.5629,72.1639,JP6,,,,,"/>
-<approved hash="113,1,147.557,87.8561,JP7,,,,,"/>
-<approved hash="113,1,147.557,64.9961,JP8,,,,,"/>
-<approved hash="113,1,50.5629,49.3039,JP9,,,,,"/>
-<approved hash="113,1,54.5677,24.3561,JP10,,,,,"/>
-<approved hash="113,1,154.94,211.864,JP11,,,,,"/>
+<approved hash="113,1,-23.0971,101.404,JP1,,,,,"/>
+<approved hash="113,1,-23.0971,81.0844,JP2,,,,,"/>
+<approved hash="113,1,121.724,165.337,JP3,,,,,"/>
+<approved hash="113,1,-23.0971,45.5244,JP4,,,,,"/>
+<approved hash="113,1,228.837,81.4756,JP5,,,,,"/>
+<approved hash="113,1,50.5629,72.1944,JP6,,,,,"/>
+<approved hash="113,1,147.557,87.8256,JP7,,,,,"/>
+<approved hash="113,1,147.557,64.9656,JP8,,,,,"/>
+<approved hash="113,1,50.5629,49.3344,JP9,,,,,"/>
+<approved hash="113,1,54.5677,24.3256,JP10,,,,,"/>
+<approved hash="113,1,154.94,211.894,JP11,,,,,"/>
+<approved hash="113,1,130.071,127.531,FRAME1,,,,,"/>
 </errors>
 </schematic>
 </drawing>
